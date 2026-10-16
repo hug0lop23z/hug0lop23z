@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Hugo López! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hug0lop23&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hug0lop23z&style=flat-square&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/hug0lop23z?style=flat-square&color=blue&logo=github" alt="GitHub followers" />
 </p>
 
