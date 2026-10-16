@@ -1,65 +1,69 @@
-<h1 align="center">¡Hola, soy Hugo López! 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=¡Hola,%20soy%20Hugo%20López!&fontSize=38&fontColor=fff&animation=fadeIn&fontY=38" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hug0lop23z&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/hug0lop23z?style=flat-square&color=blue&logo=github" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=hug0lop23z&style=flat-square&color=007ec6" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hug0lop23z?style=flat-square&color=007ec6&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Valencia-España-orange?style=flat-square&logo=google-maps" alt="Location" />
 </p>
 
-<p align="center">
-  💻 Estudiante de <b>Desarrollo de Aplicaciones Multiplataforma (DAM)</b> en Valencia, España.<br>
-   apasionado por el desarrollo backend, las bases de datos y la creación de experiencias interactivas y multijugador.
-</p>
+<div align="center">
+  💻 Estudiante del segundo año del Ciclo Formativo de Grado Superior en <b>Desarrollo de Aplicaciones Multiplataforma (DAM)</b> en Valencia.<br>
+  Apasionado por la ingeniería backend, la arquitectura de bases de datos relacionales y la creación de experiencias interactivas y multijugador.
+</div>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Stack Tecnológico
 
-#### **Lenguajes y Backend**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
+<br>
 
-#### **Bases de Datos & ORM**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neondb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
-</p>
-
-#### **Frontend, Web & Herramientas**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Odoo-8F0056?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Lenguajes** | `![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)` `![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)` `![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)` `![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)` |
+| **Bases de Datos & ORM** | `![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)` `![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)` `![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=neondb&logoColor=white)` `![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)` |
+| **Backend & Web** | `![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)` `![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)` `![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)` `![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)` |
+| **Sistemas & DevOps** | `![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)` `![Odoo](https://img.shields.io/badge/Odoo-8F0056?style=flat-square&logo=odoo&logoColor=white)` `![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)` `![WSL](https://img.shields.io/badge/WSL-0078D6?style=flat-square&logo=windows&logoColor=white)` |
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-*   ⚔️ **MMORPG 2D en Red (Java):** Desarrollo de un juego multijugador LAN con gráficos en terminal ASCII e interfaz Swing. Cuenta con networking mediante sockets TCP, bucle de juego en tiempo real y persistencia en PostgreSQL para gestión de cuentas e inventarios.
-*   🃏 **Blackjack con WebSockets (Python):** Aplicación de escritorio empaquetada como ejecutable (`.exe`) con soporte para modo un jugador y multijugador LAN, construida utilizando Python, FastAPI y WebSockets.
-*   ☕ **DulceClick / Gestión POS:** Propuesta de transformación digital y sistema de integración TPV orientado a la optimización de procesos de negocio.
+- ⚔️ **MMORPG 2D en Red (Java)**
+  - *Descripción:* Desarrollo integral de un juego multijugador masivo en red local (LAN) programado en Java.
+  - *Características:* Gráficos en terminal ASCII acompañados de una interfaz Swing, arquitectura de red basada en sockets TCP con un bucle de juego en tiempo real, y persistencia de datos en PostgreSQL para la gestión de cuentas de usuario e inventarios.
+
+- 🃏 **Blackjack Multiplataforma con WebSockets (Python)**
+  - *Descripción:* Aplicación de escritorio empaquetada como ejecutable (`.exe`) que permite partidas de un jugador y multijugador en red local.
+  - *Características:* Backend robusto construido con Python y FastAPI, comunicación bidireccional en tiempo real mediante WebSockets y empaquetado final con PyInstaller.
+
+- 💼 **DulceClick / Sistema de Integración TPV**
+  - *Descripción:* Propuesta de negocio y transformación digital orientada a la optimización de procesos operativos y la integración de software de gestión para PYMES y sector hostelería.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas y Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hug0lop23z&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hug0lop23z&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hug0lop23z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hug0lop23z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hug0lop23z&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 ¿Conectamos?
+### 📫 ¿Cómo contactar conmigo?
 
-*   💼 **GitHub:** [github.com/hug0lop23z](https://github.com/hug0lop23z)
+- 🐙 **GitHub:** [@hug0lop23z](https://github.com/hug0lop23z)
+- 📍 **Ubicación:** Valencia, España
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,11,6&height=100&section=footer" />
+</div>
