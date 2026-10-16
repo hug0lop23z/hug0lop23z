@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  💻 Estudiante de <b>Desarrollo de Aplicaciones Multiplataforma (DAM)</b> en Valencia, España.<br>
-   apasionado por el desarrollo backend, las bases de datos y la creación de experiencias interactivas y multijugador.
+  💻 Backend developer
 </p>
 
 ---
