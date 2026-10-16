@@ -3,6 +3,7 @@
 </div>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hug0lop23z&style=flat-square&color=007ec6" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/hug0lop23z?style=flat-square&color=007ec6&logo=github" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Valencia-España-orange?style=flat-square&logo=google-maps" alt="Location" />
 </p>
